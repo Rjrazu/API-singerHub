@@ -11,16 +11,16 @@ const Singer = (props) => {
             <p className="image"><img src={img} alt="" /></p>
             <div className="details">
                 <h3>Name : {name}</h3>
-                <h5>Age : {age}</h5>
-                <h5>Religion : {religion}</h5>
+                <h4>Age : {age}</h4>
+                <h4>Religion : {religion}</h4>
                 <p>Region : {country}</p>
-                <h3>Take BDT Per Concert {pricePerShow}</h3>
+                <h3>Take {pricePerShow} BDT Per Concert</h3>
             </div>
             <p className="btn">
                 <button
                     className="my-button"
                     onClick={() => props.handleAddToCart(props.singer)}
-                >{shoppingCart} Add For Show</button>
+                >{shoppingCart} Add For Concert</button>
             </p>
         </div>
     );
