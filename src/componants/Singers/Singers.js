@@ -4,14 +4,21 @@ import Singer from '../Singer/Singer';
 import './Singers.css';
 
 const Singers = () => {
+
+    //  states 
+
     const [singers, setSingers] = useState([]);
     const [selectedSinger, setSelectedSinger] = useState([]);
+
+    // load json data
 
     useEffect(() => {
         fetch('./singersdata.JSON')
             .then(res => res.json())
             .then(data => setSingers(data))
     }, []);
+
+    // handle Button
 
     const handleAddToCart = (singer) => {
         const newSelectedSinger = [...selectedSinger, singer];
