@@ -1,10 +1,9 @@
-import './App.css';
 import Singers from './componants/Singers/Singers';
-import Header from './Header/Header';
+import Header from './componants/Header/Header';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Header></Header>
       <Singers></Singers>
     </div>

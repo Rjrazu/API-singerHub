@@ -1,0 +1,11 @@
+.header{
+    background-color: cadetblue;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+.header .concert-text{
+    font-size: 22px;
+    font-weight: 400;
+}

@@ -1,12 +1,45 @@
 .card{
-    width: 350px;
+    width: 320px;
     height: 500px;
-    border: 1px solid lightblue;
+    border: 1px solid rgb(193, 202, 206);
     border-radius: 15px;
-    box-shadow: gray;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 4px 4px 7px lightgray;
+    padding: 10px;
+    transition: 0.6s;;
+}
+.card:hover{
+    background-color: rgb(245, 239, 239);
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 10px;
+    border: 1px solid rgb(21, 194, 194);
+}
+.image{
+    text-align: center;
 }
 .card img{
-width: 230px;
-height: 230px;
-border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.card .details{
+    margin-left: 15px;
+}
+.btn{
+    text-align: center;
+}
+.my-button{
+    font-size: 15px;
+    padding: 8px 30px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+}
+.my-button:hover{
+    color: #000;
+    background-color: white;
+    border: 1px solid blue;
 }

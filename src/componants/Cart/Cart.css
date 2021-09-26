@@ -1,0 +1,30 @@
+.cart{
+    margin-left: 15px;
+    border: 1px solid lightgrey;
+    padding: 8px;
+    border-radius: 10px;
+}
+.card-items{
+    padding: 8px;
+}
+
+.btn{
+    text-align: center;
+}
+.my-button{
+    font-size: 15px;
+    padding: 8px 30px;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    color: white;
+    background-color: orange;
+    cursor: pointer;
+}
+.my-button:hover{
+    color: #000;
+    background-color: white;
+    border: 1px solid blue;
+}
+.check-out{
+    text-align: center;
+}
