@@ -37,8 +37,6 @@ const Singers = () => {
                 }
             </div>
         </div>
-
-
     );
 };
 

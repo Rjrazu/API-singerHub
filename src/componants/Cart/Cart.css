@@ -3,6 +3,13 @@
     border: 1px solid lightgrey;
     padding: 8px;
     border-radius: 10px;
+    position: fixed;
+}
+.cart:hover{
+    background-color: rgb(252, 241, 241);
+    box-shadow: 4px 4px 7px gray;
+    border-radius: 10px;
+    border: 1px solid rgb(21, 194, 194);
 }
 .card-items{
     padding: 8px;
