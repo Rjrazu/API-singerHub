@@ -1,10 +1,8 @@
-# Big Music Consert 
+# Create a Big Music Concert With Most Favorite Singers
 
-This project was bootstrapped with [Consert Link](https://github.com/facebook/create-react-app).
+Live Site [Consert Link](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+## Find Indian, Pakistani and Bangladeshi Singer
+## You Can Create a Concert With Them
+## You Must Have To Pay 
 
