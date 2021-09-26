@@ -1,0 +1,296 @@
+[
+    {
+        "key": "A1B1C1",
+        "name": "Atif Aslam",
+        "pricePerShow": 250000,
+        "age": "38 Years",
+        "country": "Pakistan",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Dil Diya Gallan",
+            "song2": "Aadat",
+            "song3": "Pehli Dafa"
+        },
+        "img": "https://www.emcompany.pk/wp-content/uploads/2018/07/atif-3.jpg"
+    },
+    {
+        "key": "A2B2C2",
+        "name": "Arijit Singh",
+        "pricePerShow": 200000,
+        "age": "34 Years",
+        "country": "India",
+        "religion": "Hinduism",
+        "favSongs": {
+            "song1": "Tum Hi Ho",
+            "song2": "Kabhi Jo Badal",
+            "song3": "Khairiat"
+        },
+        "img": "https://www.iwmbuzz.com/wp-content/uploads/2020/10/arijit-singhs-songs-for-every-lover.jpg"
+    },
+    {
+        "key": "A3B3C3",
+        "name": "Armaan Malik",
+        "pricePerShow": 100000,
+        "age": "26 Years",
+        "country": "India",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Chaale Aana",
+            "song2": "Buttabomma",
+            "song3": "Hua Hain Aaj Pehli Baar"
+        },
+        "img": "https://www.dailypioneer.com/uploads/2021/story/images/big/armaan-malik--wouldn-t-be-where-i-am-today-without-my-mother-2021-03-07.jpg"
+    },
+    {
+        "key": "A4B4C4",
+        "name": "Sonu Nigum",
+        "pricePerShow": 200000,
+        "age": "48 Years",
+        "country": "India",
+        "religion": "Hinduism",
+        "favSongs": {
+            "song1": "Abhi Mujh Main Kaha",
+            "song2": "Kal Ho Na Ho",
+            "song3": "Bol Chudiyaan"
+        },
+        "img": "https://www.bollywoodhungama.com/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-10-at-3.35.17-PM.jpeg"
+    },
+    {
+        "key": "A5B5C5",
+        "name": "A. R. Rahman",
+        "pricePerShow": 200000,
+        "age": "54 Years",
+        "country": "India",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Jai Ho",
+            "song2": "Mehndi Hai Rachnewali",
+            "song3": "Radha Kaise Na Jale"
+        },
+        "img": "https://static.toiimg.com/thumb/msid-74594959,width-800,height-600,resizemode-75,imgsize-50250,pt-32,y_pad-40/74594959.jpg"
+    },
+    {
+        "key": "A6B6C6",
+        "name": "Shreya Ghoshal",
+        "pricePerShow": 200000,
+        "age": "37 Years",
+        "country": "India",
+        "religion": "Hinduism",
+        "favSongs": {
+            "song1": "Papa Mera Papa",
+            "song2": "Teri Meri",
+            "song3": "Ye Ishq Hain"
+        },
+        "img": "https://st1.latestly.com/wp-content/uploads/2021/06/ShreyaGhoshal.jpg"
+    },
+    {
+        "key": "A7B7C7",
+        "name": "Sunidhi Chauhan",
+        "pricePerShow": 200000,
+        "age": "38 Years",
+        "country": "India",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Dhoom Machale",
+            "song2": "Kamli",
+            "song3": "Dj"
+        },
+        "img": "https://cdn.dnaindia.com/sites/default/files/styles/full/public/2018/05/22/685157-sunidhi-chauhan.jpg"
+    },
+    {
+        "key": "A8B8C8",
+        "name": "Lata Mangeshkar",
+        "pricePerShow": 100000,
+        "age": "91 Years",
+        "country": "India",
+        "religion": "Hindu",
+        "favSongs": {
+            "song1": "Aisa Des Hai Mera",
+            "song2": "Humko Humise Chura Lo",
+            "song3": "Yeh Galiyan Yeh Chaubara"
+        },
+        "img": "https://i.ndtvimg.com/i/2017-09/lata-mangeshkar-twitter_640x480_51506599245.jpg"
+    },
+    {
+        "key": "A9B9C9",
+        "name": "Neha Kakkar",
+        "pricePerShow": 200000,
+        "age": "33 Years",
+        "country": "India",
+        "religion": "Hindu",
+        "favSongs": {
+            "song1": "Gali Gali",
+            "song2": "O Saki Saki",
+            "song3": "Dilbar Dilbar"
+        },
+        "img": "https://st1.bollywoodlife.com/wp-content/uploads/2021/02/Neha-Kakkar-1.jpg"
+    },
+    {
+        "key": "A10B10C10",
+        "name": "KK",
+        "pricePerShow": 200000,
+        "age": "51 Years",
+        "country": "India",
+        "religion": "Hinduism",
+        "favSongs": {
+            "song1": "Zara Sa",
+            "song2": "Tuhi Meri Shab Hain",
+            "song3": "Dil Ibadat"
+        },
+        "img": "https://i2.cinestaan.com/image-bank/1500-1500/129001-130000/129604.jpg"
+    },
+    {
+        "key": "A11B11C11",
+        "name": "Ali Zafar",
+        "pricePerShow": 100000,
+        "age": "41 Years",
+        "country": "Pakistan",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Balaghal-Ula Bi-Kamaalihi",
+            "song2": "Voh Dekhnay Mein",
+            "song3": "Laila O Laila"
+        },
+        "img": "https://static.toiimg.com/thumb/msid-65230342,width-1200,height-900,resizemode-4/.jpg"
+    },
+    {
+        "key": "A12B12C12",
+        "name": "Rahat Fateh Ali Khan",
+        "pricePerShow": 150000,
+        "age": "46 Years",
+        "country": "Pakistan",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Tere Bin",
+            "song2": "Zarori Tha",
+            "song3": "Mere Rashke Qumar"
+        },
+        "img": "https://pbs.twimg.com/profile_images/889033400748789760/_z94ltiA_400x400.jpg"
+    },
+    {
+        "key": "A13B13C13",
+        "name": "Ghulam Ali",
+        "pricePerShow": 50000,
+        "age": "80 Years",
+        "country": "Pakistan",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Chamakte Chand Ko",
+            "song2": "Tumhare Khat Main",
+            "song3": "Mehfil Main Baar Baar"
+        },
+        "img": "https://m.media-amazon.com/images/I/41V527T00HL._SL1000_.jpg"
+    },
+    {
+        "key": "A14B14C14",
+        "name": "Shafqat Amanat Ali",
+        "pricePerShow": 80000,
+        "age": "56 Years",
+        "country": "Pakistan",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Bin Tere",
+            "song2": "Allah Warayiaan",
+            "song3": "Tuhi Mera"
+        },
+        "img": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/08/03/152846-new-11.jpg"
+    },
+    {
+        "key": "A15B15C15",
+        "name": "Hadiqa Kiani",
+        "pricePerShow": 100000,
+        "age": "47 Years",
+        "country": "Pakistan",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Boohey Barian",
+            "song2": "Kamli",
+            "song3": "Yaad Sajan"
+        },
+        "img": "https://pbs.twimg.com/profile_images/1316324059748151297/a8tvw4Vm.jpg"
+    },
+    {
+        "key": "A16B16C16",
+        "name": "Ayub Bachchu",
+        "pricePerShow": 100000,
+        "age": "Died: October 18, 2018",
+        "country": "Bangladesh",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Ek Akash Tara",
+            "song2": "Baro Mash",
+            "song3": "Koto Pani Dui Noyone"
+        },
+        "img": "https://static.toiimg.com/thumb/msid-68933039,imgsize-109998,width-800,height-600,resizemode-75/68933039.jpg"
+    },
+    {
+        "key": "A17B17C17",
+        "name": "James",
+        "pricePerShow": 100000,
+        "age": "56 Years",
+        "country": "Bangladesh",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Baba",
+            "song2": "Eto Kosto",
+            "song3": "Bheegi Bheegi"
+        },
+        "img": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/6531978_x0eaXTY25SAw3mrQ0hFkZ3JzTu6rSo3yG5lyXh5A.jpeg"
+    },
+    {
+        "key": "A18B18C18",
+        "name": "Hridoy Khan",
+        "pricePerShow": 100000,
+        "age": "30 Years",
+        "country": "Bangladesh",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Eto Kichu Bojho",
+            "song2": "Bhalo Lagena",
+            "song3": "Ki Jala"
+        },
+        "img": "https://live.staticflickr.com/7434/14184033394_8db79ca623_b.jpg"
+    },
+    {
+        "key": "A19B19C19",
+        "name": "Nazmun Munira Nancy",
+        "pricePerShow": 100000,
+        "age": "33 Years",
+        "country": "Bangladesh",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Onek Sadhonar Pore",
+            "song2": "Moner Vitore",
+            "song3": "Modhu hoi hoi bish"
+        },
+        "img": "https://www.theindependentbd.com/assets/news_images/Nancy2.jpg"
+    },
+    {
+        "key": "A20B20C20",
+        "name": "Habib Wahid",
+        "pricePerShow": 100000,
+        "age": "41 Years",
+        "country": "Bangladesh",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Tomake Chere Ami",
+            "song2": "Doob",
+            "song3": "Prithibir Joto Sukh"
+        },
+        "img": "https://www.newagebd.com/files/records/news/202107/144375_186.jpg"
+    },
+    {
+        "key": "A21B21C21",
+        "name": "BALAM",
+        "pricePerShow": 100000,
+        "age": "45 Years",
+        "country": "Bangladesh",
+        "religion": "Islam",
+        "favSongs": {
+            "song1": "Ekaki Mon",
+            "song2": "Ki Nesha",
+            "song3": "Ekaki Mon Aaj Nirobe"
+        },
+        "img": "https://i1.sndcdn.com/artworks-000162535627-guaky2-t500x500.jpg"
+    }
+]

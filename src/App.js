@@ -1,13 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import Singers from './componants/Singers/Singers';
+import Header from './Header/Header';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h3>Assignments 8</h3>
-      </header>
+      <Header></Header>
+      <Singers></Singers>
     </div>
   );
 }
